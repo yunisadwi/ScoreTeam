@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Score Team</string>
+    <string name="add_score">Tambah Skor</string> <!-- Menambahkan sumber daya string -->
+</resources>
